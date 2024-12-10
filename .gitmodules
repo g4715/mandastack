@@ -1,0 +1,6 @@
+[submodule "libraries/M5Unified"]
+	path = libraries/M5Unified
+	url = git@github.com:g4715/M5Unified.git
+[submodule "libraries/M5GFX"]
+	path = libraries/M5GFX
+	url = git@github.com:g4715/M5GFX.git
